@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621192909 source:d:\codeblocks\roundrobin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621193677 source:d:\cce\4th term\data structure\assignments\queue\roundrobin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
